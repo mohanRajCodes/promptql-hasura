@@ -1,2 +1,2 @@
 # promptql-hasura
-Test
+Test 2.0
